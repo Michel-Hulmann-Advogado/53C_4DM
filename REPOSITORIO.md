@@ -1,6 +1,6 @@
 Criando repositório novo para testar versionamento no git.
 
-Olá, mundo!
+Olá, mundo! Vamos de pull....
 
 At.te,
 Michel
